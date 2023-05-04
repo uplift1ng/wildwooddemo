@@ -1,4 +1,10 @@
-"Project 473" - Software Engineering Practice 473 - 001
-*Start Project: 1 / 30 / 2023*
-Authors: Jesse Hajas, Drew Rado, Emily Himes, Malcolm Holden, Lileah Tunno
+Escape from Wildwood
+
+A JavaScript game where the player tries to stay alive as long as possible.
+
+Start Date: 1 / 30 / 2023
+
+Authors: Jesse Hajas*, Drew Rado, Emily Himes, Malcolm Holden, Lileah Tunno
+
+*Scrum Master
  
